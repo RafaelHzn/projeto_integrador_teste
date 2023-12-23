@@ -10,10 +10,10 @@ REFERÊNCIAS / CRÉDITOS:
 <a href="https://www.flaticon.com/br/icones-gratis/meio-ambiente" title="meio ambiente ícones">Meio ambiente ícones criados por Freepik - Flaticon</a>
 
 Ícone 03
-<a href="https://www.flaticon.com/br/icones-gratis/meio-ambiente" title="meio ambiente ícones">Meio ambiente ícones criados por Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/br/icones-gratis/parque" title="parque ícones">Parque ícones criados por justicon - Flaticon</a>
 
 Ícone 04
-<a href="https://www.flaticon.com/br/icones-gratis/meio-ambiente" title="meio ambiente ícones">Meio ambiente ícones criados por Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/br/icones-gratis/industria" title="indústria ícones">Indústria ícones criados por berkahicon - Flaticon</a>
 
 Foto Slider 01
 <a href="c" title="c">on Freepik</a>
